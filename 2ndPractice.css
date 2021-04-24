@@ -1,0 +1,32 @@
+.shadowbox {
+  width: 15em;
+  border: 1px solid #333;
+  box-shadow: 8px 8px 5px #444;
+  padding: 8px 12px;
+  margin-top: 20px;
+  background-image: linear-gradient(180deg, #fff, #ddd 40%, #ccc);
+}
+
+.tablebox {
+  margin-top: 20px;
+  display: inline-block;
+}
+
+.title {
+  text-align: center;
+}
+
+#myBtn.clear {
+  position: relative;
+  clear: none;
+}
+
+#myImg {
+  float: left;
+  padding-left: 105px;
+  clear: none;
+}
+
+.myvd {
+  margin-top: 20px;
+}
